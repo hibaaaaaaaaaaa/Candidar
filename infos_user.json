@@ -1,0 +1,75 @@
+{
+    "candidat": {
+        "role": "olanda",
+        "interviewer": "farya"
+    },
+    "job": {
+        "titre": "chef projet",
+        "description": "ingenieur ia junior",
+        "campagne": "maroc telecom"
+    },
+    "test_quiz": {
+        "questions": [
+            {
+                "question": "A project requires 12 people to complete in 20 days. If only 8 people are available, how many days will it take to complete the project, assuming the same workload?",
+                "reponse_candidat": "24 days",
+                "bonne_reponse": "30 days"
+            },
+            {
+                "question": "If all Bloops are Floops, and some Floops are Groops, which of the following statements MUST be true?",
+                "reponse_candidat": "Some Bloops are Groops",
+                "bonne_reponse": "None of the above"
+            },
+            {
+                "question": "A sequence goes: 2, 5, 10, 17, ?. What is the next number in the sequence?",
+                "reponse_candidat": "26",
+                "bonne_reponse": "26"
+            },
+            {
+                "question": "If a meeting starts at 2:45 PM and lasts for 1 hour and 50 minutes, what time does it end?",
+                "reponse_candidat": "4:05 PM",
+                "bonne_reponse": "4:35 PM"
+            },
+            {
+                "question": "Which three of the following words are most similar in meaning: Analyze, Examine, Dissect, Ignore, Scrutinize, Neglect?",
+                "reponse_candidat": "Examine, Dissect, Scrutinize",
+                "bonne_reponse": "Analyze, Examine, Scrutinize"
+            },
+            {
+                "question": "If a team completes 25% of a project in 10 days, how many more days are likely needed to complete the remaining 75%, assuming a consistent work rate?",
+                "reponse_candidat": "30 days",
+                "bonne_reponse": "30 days"
+            },
+            {
+                "question": "All chefs wear hats.  John wears a hat.  Therefore, John is a chef. Is this logical reasoning valid?",
+                "reponse_candidat": "Yes",
+                "bonne_reponse": "No"
+            },
+            {
+                "question": "A train travels 100 km in 2 hours.  If it maintains the same speed, how far will it travel in 5 hours?",
+                "reponse_candidat": "250 km",
+                "bonne_reponse": "250 km"
+            },
+            {
+                "question": "Which word does NOT belong with the others:  Circle, Square, Triangle, Sphere, Pentagon?",
+                "reponse_candidat": "Triangle",
+                "bonne_reponse": "Sphere"
+            },
+            {
+                "question": "If you have a team of 5 people and need to form a group of 3 for a specific task, how many different groups can you create?",
+                "reponse_candidat": "15",
+                "bonne_reponse": "10"
+            }
+        ],
+        "temps_fin_test": 13,
+        "evaluations": {
+            "score": 3,
+            "pourcentage": 30.0
+        }
+    },
+    "interview": {
+        "questions": [],
+        "temps_fin_interview": "",
+        "evaluations": []
+    }
+}
