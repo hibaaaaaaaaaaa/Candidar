@@ -48,8 +48,10 @@ Job seekers face the following challenges:
 * **Step 4 :** Participate in a vocal interview simulation and receive detailed feedback with scores and areas for improvement.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/60fc312f-3383-4505-991c-8c99dfef6634" />
+  <img src="https://github.com/user-attachments/assets/268c84cb-49d1-4c60-abb2-4aeed39b4799" />
 </p>
+
+
 
 ### Technical Architecture
 
